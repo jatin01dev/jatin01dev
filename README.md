@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Jatin
 **A passionate Computer Science Engineer  || Web Devloper || from India**
 
-Email Me 👉 ✉️ **jatinnariyal01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **jatinnariyal01@gmail.com** For Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Complete web dev (MERN stack)
 - 📫 **How to reach me:** jatinnariyal01@gmail.com
